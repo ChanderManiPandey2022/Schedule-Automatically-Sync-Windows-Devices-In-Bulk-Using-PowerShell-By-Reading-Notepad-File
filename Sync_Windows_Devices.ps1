@@ -33,8 +33,8 @@ Set-ExecutionPolicy -ExecutionPolicy 'ByPass' -Scope 'Process' -Force -ErrorActi
 $InputDeviceList = Get-Content  "C:\Temp\DevcieList.txt" # "InputDeviceList.txt" Location
 $loggingLocation = "C:\Intune_BulkDeviceSync\Sync_Logs" #Log Location
 $tenantName = "CMPDempLab.onmicrosoft.com"
-$AppId = "150df515-4e24-40df-b6bb-062486e71da9"
-$client_Secret ="lAz8Q~7XIlAEV2IbyxYtj14bl1wdnlx8a06H0be0"
+$AppId = "150df515-4e24-40df-b6bb-0486e71da9"
+$client_Secret ="lAz8Q~7XIlAEV2IbYtj14bl1wdnlx8a06H0be0"
 #=========================================Microsoft.Graph.Intune Module================================================================
 
 $MGIModule = Get-module -Name "Microsoft.Graph.Intune" -ListAvailable
