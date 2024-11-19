@@ -11,8 +11,7 @@
   Twitter:-        https://twitter.com/Mani_CMPandey
   Facebook:-       https://www.facebook.com/profile.php?id=100087275409143&mibextid=ZbWKwL
   LinkedIn:-       https://www.linkedin.com/in/chandermanipandey
-  Reddit:-         https://www.reddit.com/u/ChanderManiPandey 
- #>
+   #>
   
 Set-ExecutionPolicy -ExecutionPolicy 'ByPass' -Scope 'Process' -Force -ErrorAction 'Stop' 
 
